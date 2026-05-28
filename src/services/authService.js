@@ -11,3 +11,5 @@ function verifyToken(token) {
 }
 
 module.exports = { createToken, verifyToken };
+
+console.log("auteração!");
